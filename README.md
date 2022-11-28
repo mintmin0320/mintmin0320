@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  
   Hi there 👋  I want to be <b>backend</b>a developer using Node.js!
   <br/>
