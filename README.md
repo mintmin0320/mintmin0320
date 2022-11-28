@@ -1,9 +1,9 @@
 <div>
  
-  Hi there 👋  I want to be <b>backend</b>a developer using Node.js!
+  Hi there 👋  I want to be a <b> backend</b> developer using Node.js!
   <br/>
   <h2>Skils</h2>
-  <h4>Languages</h4>
+  <h4>✍️Languages</h4>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   </div>
   <br/>
-  <h4>Tools</h4>
+  <h4>⚒️Tools</h4>
   <div>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
