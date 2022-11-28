@@ -1,5 +1,4 @@
-<div>
- 
+
   Hi there 👋  I want to be a <b> backend</b> developer using Node.js!
   <br/>
   <h2>Skils</h2>
@@ -16,7 +15,6 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   </div>
-</div>
 
 
 
