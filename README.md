@@ -18,7 +18,7 @@
   <br/>
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintmin0320)](https://github.com/mintmin0320/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintmin0320&layout=compact">
 
 
 <!--
