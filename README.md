@@ -1,7 +1,7 @@
 
   Hi there 👋  I want to be a <b> backend</b> developer using Node.js!
   <br/>
-  <h2>Skils</h2>
+  <h2>Learning!</h2>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
@@ -14,10 +14,6 @@
     <br/>
   </div>
   <br/>
-  <h4>⚒️Tools</h4>
-  <div>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  </div>
   <br/>
   <br/>
   
