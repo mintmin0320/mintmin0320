@@ -1,5 +1,5 @@
 
-  Hi there 👋  I want to be a <b> backend</b> developer using Node.js!
+  Hi there 👋  I want to be a <b>developer</b> using JavaScript!
     <div>
   <b>이력서</b><br/>
     <a href="https://wood-balance-014.notion.site/JS-090624d4c5f3479895b4d70cb3d309eb?pvs=4">
@@ -26,8 +26,7 @@
     <br/>
   </div>
   <br/>
-  <br/>
-  <br/>
+
   
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
