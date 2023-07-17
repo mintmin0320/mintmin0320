@@ -1,10 +1,6 @@
 
   Hi there 👋  I want to be a <b>developer</b> using JavaScript!
     <div>
-  <b>이력서</b><br/>
-    <a href="https://wood-balance-014.notion.site/JS-090624d4c5f3479895b4d70cb3d309eb?pvs=4">
-     <img src="https://img.shields.io/badge/Notion-F2F2F2?style=for-the-badge&logo=Notion&logoColor=black"/><br/><br/>
-        </a>
 <b>블로그</b><br/>
   <a href="https://velog.io/@mintmin0320">
      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
