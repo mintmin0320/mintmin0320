@@ -1,28 +1,32 @@
 
   Hi there 👋  I want to be a <b>developer</b> using JavaScript!
-    <div>
-<b>블로그</b><br/>
-  <a href="https://velog.io/@mintmin0320">
-     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+<br/>
+
+   <img width="80" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1573198836/noticon/uydcemefupin4kvi5pii.gif" alt="병아리" title="병아리"/>
+   
+  <br/>
+  <h2>📨 Concat!</h2>
+  <a href="mintmin0320@gmail.com">
+    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png" alt="Gmail" title="Gmail"/></code>
   </a>
-  <br/>
-  </div>
+  <a href="https://velog.io/@mintmin0320">
+    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" alt="JavaScript" title="JavaScript"/></code>
+  </a>
+  <a href="https://velog.io/@mintmin0320](https://www.linkedin.com/in/%ED%95%98%EB%AF%BC-%EB%B0%95-0aba16285/">
+    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="LinkedIn" title="LinkedIn"/></code>
+  </a>
+  <br/><br/><br/>
 
-  <h2>Learning!</h2>
+  <h2>✍️ Learning!</h2>
   <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>  
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-    <br/>
+    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+ 	  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1631622784/noticon/zwush4y3u0mgamlck9bq.png" alt="React Query" title="React Query"/></code>
+    <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
+    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1600658982/noticon/hk60kbfbqnedpguy0gbb.png" alt="Nest.js" title="Nest.js"/></code>
   </div>
   <br/>
-
   
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
