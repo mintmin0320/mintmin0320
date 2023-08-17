@@ -6,9 +6,6 @@
    
   <br/>
   <h2>📨 Concat!</h2>
-  <a href="mintmin0320@gmail.com">
-    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567061475/noticon/tnz5tvci1qdslmibbp14.png" alt="Gmail" title="Gmail"/></code>
-  </a>
   <a href="https://velog.io/@mintmin0320">
     <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" alt="JavaScript" title="JavaScript"/></code>
   </a>
