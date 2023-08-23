@@ -23,11 +23,7 @@
     <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
     <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1600658982/noticon/hk60kbfbqnedpguy0gbb.png" alt="Nest.js" title="Nest.js"/></code>
   </div>
-  <br/>
   
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-
 <!--
 
 **mintmin0320/mintmin0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
