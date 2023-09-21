@@ -6,13 +6,19 @@
    
   <br/>
   <h2>📨 Concat!</h2>
-  <a href="https://velog.io/@mintmin0320">
-    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581345292/noticon/hbwtrewlv2xxxyqe3qpm.png" alt="JavaScript" title="JavaScript"/></code>
-  </a>
   <a href="https://www.linkedin.com/in/%ED%95%98%EB%AF%BC-%EB%B0%95-0aba16285/">
     <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="LinkedIn" title="LinkedIn"/></code>
   </a>
-  <br/><br/><br/>
+
+<br/><br/>
+  
+  <h3>블로그</h3>
+  
+  <a href="https://mintmin-dev-world.vercel.app/">
+    https://mintmin-dev-world.vercel.app/
+  </a>
+  
+  <br/><br/>
 
   <h2>✍️ Learning!</h2>
   <div>
