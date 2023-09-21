@@ -10,7 +10,7 @@
     <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="LinkedIn" title="LinkedIn"/></code>
   </a>
 
-<br/><br/>
+<br/>
   
   <h3>블로그</h3>
   
