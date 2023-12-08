@@ -7,17 +7,11 @@
   <br/>
   <h2>📨 Concat!</h2>
   
-  <a href="https://www.linkedin.com/in/%ED%95%98%EB%AF%BC-%EB%B0%95-0aba16285/">
-    <code><img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" alt="LinkedIn" title="LinkedIn"/></code>
-  </a>
+[LinkedIn](https://www.linkedin.com/in/%ED%95%98%EB%AF%BC-%EB%B0%95-0aba16285/)
 
 <br/>
-  
-  <h3>블로그</h3>
-  
-  <a href="https://mintmin-dev-world.vercel.app/">
-    https://mintmin-dev-world.vercel.app/
-  </a>
+
+[개발 블로그](https://mintmin-dev-world.vercel.app/)
   
   <br/><br/>
 
