@@ -7,11 +7,11 @@
   <br/>
   <h2>📨 Concat!</h2>
   
-[LinkedIn](https://www.linkedin.com/in/%ED%95%98%EB%AF%BC-%EB%B0%95-0aba16285/)
+### [LinkedIn](https://www.linkedin.com/in/%ED%95%98%EB%AF%BC-%EB%B0%95-0aba16285/)
 
 <br/>
 
-[개발 블로그](https://mintmin-dev-world.vercel.app/)
+### [개발 블로그](https://mintmin-dev-world.vercel.app/)
   
   <br/><br/>
 
