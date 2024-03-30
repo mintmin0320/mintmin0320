@@ -1,13 +1,6 @@
 
   Hi there 👋  I want to be a <b>developer</b> using JavaScript!
-<br/>
 
-   <img width="80" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1573198836/noticon/uydcemefupin4kvi5pii.gif" alt="병아리" title="병아리"/>
-   
-  <br/>
-  <h2>📨 Concat!</h2>
-
-#### - [LinkedIn](https://www.linkedin.com/in/%ED%95%98%EB%AF%BC-%EB%B0%95-0aba16285/)
 #### - [개발 블로그](https://mintmin-dev-world.vercel.app/)
   
   <br/>
