@@ -1,7 +1,7 @@
 
   Hi there 👋  I want to be a <b>developer</b> using JavaScript!
 
-#### - [개발 블로그](https://mintmin-dev-world.vercel.app/)
+#### - [개발 블로그](https://mintmin.dev/)
   
   <br/>
 
