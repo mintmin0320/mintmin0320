@@ -3,12 +3,6 @@
 
 #### - [개발 블로그](https://mintmin.dev/)
   
-  <br/>
-
-  <h2>✍️ Learning!</h2>
-
-<br/>
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mintmin0320/mintmin0320/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mintmin0320/mintmin0320/output/github-snake.svg" />
